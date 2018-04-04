@@ -6,7 +6,7 @@
 title: devil_blog
 subtitle: where is the way, where are you
 description: A blog show and record my life, as a front-end
-author: linsongjian
+author: 谁动了我的代码
 language: ZH-CN
 timezone: 
 
@@ -72,9 +72,30 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# yilia
+## Set tags
+jsonContent:
+  meta: false
+  pages: false
+  posts:
+    title: true
+    date: true
+    path: true
+    text: false
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: true
