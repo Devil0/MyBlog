@@ -4,7 +4,7 @@ date: 2018-04-08 10:07:42
 tags: JS
 categories: JS体系
 ---
-
+{% img [class names] /assets/javascript.png 600 350 JavaScript %}
 ## 概述
 
 高中读化学时一直觉得知识点好零碎，徘徊门外分数也上不去；后来高一舍友告诉我要形成自己的体系，闭上眼睛都能想象得出化学的课本章节，可以从元素周期表或是有机无机开始为基点打造自己的**学习体系脉络**；说来也神奇，有了这个想法后学习真的轻松不少，打怪升级分数也上去了。废话有点多，谁让 js 是一门不需要学习就能直接先用的语言呢？导致不少人压根就迷迷糊糊的或者雾里看花似懂非懂；那个什么鬼前端知识图片就是坑，算了，入正题。。。
@@ -46,24 +46,54 @@ JS 在 web 方面应用，目前主要在宿主环境有 NODE 和浏览器，客
     
 #### 数据类型
 >js作为一门动态类型语言，其实是没有所谓类型可言，对语言引擎和开发人员来说，类型是值的内部特征，它定义了值的行为，以使其区别于其他值
-1. 基本类型
-    * 空类型
-        * null
-        * undefined
-    * 原始类型/值类型——变量存值新开内存
-        * string
-        * number
-        * boolean
-    * 复合类型/引用类型——变量存对象地址新开内存，属性值另外存
-        * object——子类有 `array、function、object`
+
+1. 空类型
+    * null
+    * undefined
+2. 原始类型/值类型——变量存值新开内存
+    * string——base64（字符编码二进制转换用于传输）btoa()、atob()
+    * number——64位浮点数、精度、范围、parseInt（string,formats）、parseFloat
+    * boolean——自动转为false的情况：undefined、null、NaN、0、''
+3. 复合类型/引用类型——变量存对象地址新开内存，属性值另外存
+    * object——子类有 `array、function、object`
+
 >对象深、浅拷贝
+>null undefined区别
 >值类型确定：typeof、instanceof、Object.prototype.toString
-2. typeof
-* 用于检测变量、函数是否定义
+>NaN（Not a Number）——任何运算都是自身，属于Number；Infinity——无穷大/小，非0数值除以0；两者运算求导，不可导为NaN
+
+**typeof**
 ```
-typeof 变量 === 'undefined'
+typeof a === 'undefined' // 用于检测变量、函数是否定义
+!a && typeof a === 'object' // 检测null，可检测出的为除null基本数据类型+function
 ```
-* 可检测出的为除null基本数据类型+function
+
+#### 对象
+
+概念： 数据集或功能集——面向对象编程
 ```
-!a && typeof a === 'object'
+    抽象性：抽取我们所需要的数据信息等
+    封装性
+    继承性
+```
+增删查改
+```
+    // 增改
+    obj.key
+    obj['key'] 
+    // 遍历
+    key in obj
+    Object.keys(obj) // 自身属性
+    for (let key in obj) // enumerable属性（结合hasOwnProperty修改自身key）
+    // 删除
+    delete obj.key // configurable为true的属性，否则为false
+```
+#### 数组
+
+继承对象的特性，需要区分类数组（arguments）
+类数组转为数组或使用数组方法：
+
+```
+var arr = Array.prototype.slice.call(arrayLike)
+Array.prototype.forEach.call(arrayLike, fn)
 ```
