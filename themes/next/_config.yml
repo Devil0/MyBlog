@@ -40,7 +40,7 @@ keywords: "Hexo, NexT"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: false
 
 footer:
   # Specify the date when the site was setup.
@@ -104,6 +104,12 @@ menu:
 # Enable/Disable menu icons.
 menu_icons:
   enable: true
+  # Icon Mapping.
+  home: home
+  about: user
+  categories: th
+  tags: tags
+  archives: archive
 
 
 # ---------------------------------------------------------------
@@ -395,7 +401,7 @@ valine:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC8zNTgxMS8xMjM0Nw==
 
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/

@@ -1,6 +1,7 @@
 ---
 permalink: about/index.html
 title: about
+comments: false
 date: 2018-04-11 16:02:04
 description: hello world or fuck world
 ---

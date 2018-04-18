@@ -1,7 +1,10 @@
 title:
-  archive: 归档
-  category: 分类
-  tag: 标签
+  home: 首页
+  about: 关于
+  archives: 归档
+  categories: 分类
+  tags: 标签
+  search: 搜索
   schedule: 日程表
 
 author: 博主

@@ -64,7 +64,7 @@ JS 在 web 方面应用，目前主要在宿主环境有 NODE 和浏览器，客
 >NaN（Not a Number）——任何运算都是自身，属于Number；Infinity——无穷大/小，非0数值除以0；两者运算求导，不可导为NaN
 
 **typeof**
-```
+```js
 typeof a === 'undefined' // 用于检测变量、函数是否定义
 !a && typeof a === 'object' // 检测null，可检测出的为除null基本数据类型+function
 ```
@@ -78,7 +78,7 @@ typeof a === 'undefined' // 用于检测变量、函数是否定义
     继承性
 ```
 增删查改
-```
+```js
     // 增改
     obj.key
     obj['key'] 
@@ -94,7 +94,7 @@ typeof a === 'undefined' // 用于检测变量、函数是否定义
 继承对象的特性，需要区分类数组（arguments）
 类数组转为数组或使用数组方法：
 
-```
-var arr = Array.prototype.slice.call(arrayLike)
+```js
+let arr = Array.prototype.slice.call(arrayLike)
 Array.prototype.forEach.call(arrayLike, fn)
 ```
