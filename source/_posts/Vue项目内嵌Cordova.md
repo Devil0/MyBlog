@@ -10,14 +10,15 @@ tags: Hybrid APP 架构
 
 ### 小项目介绍
 
-本项目用 vue cli(3.0.0) + vue(2.5.16) + cordova(8.x)构建一个项目原型——Vue 项目内嵌 cordova 安卓平台。按流程走，有坑的地方已经用我的肉体填平了
-
+本项目用 vue cli(3.0.0) + vue(2.5.16) + cordova(8.x)构建一个项目原型——Vue 项目内嵌 cordova 安卓平台。按流程走，有坑的地方已经用我的肉体填平了,相关源码地址请参阅[vue-cordova](https://github.com/Devil0/vue-cordova)。
+<!-- more -->
 ### 认识 cordova
 
 Apache Cordova 是一个开源的移动开发框架。允许你用标准的 web 技术-HTML5,CSS3 和 JavaScript 做跨平台开发。 应用在每个平台的具体执行被封装了起来，并依靠符合标准的 API 绑定去访问每个设备的功能
 
 > 跨平台开发；调用底层硬件设备
-> {% img /assets/cordovaFrame.png %}
+
+{% img /assets/cordovaFrame.png %}
 
 ### cordova 安装使用
 
