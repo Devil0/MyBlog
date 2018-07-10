@@ -19,6 +19,7 @@ transform-functions——对应函数有如下：
 3. rotate(angle)：旋转
 4. skew(angle)：倾斜
 
+<!-- more -->
 备注：
 
 1. 以上函数基于平面，其他对应的有-X、-Y、-3d，分别对应 X 轴、Y 轴、3D 转换
