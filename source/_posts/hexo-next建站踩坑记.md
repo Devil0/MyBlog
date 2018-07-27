@@ -22,7 +22,7 @@ tags: blog
 <!-- more -->
 
 ###  next主题引入与配置
-在引入next主题之前我是用yalia主题的，奈何发现各种小bug，虽然可以自定义修改，但是安装了npm包后，hexo编译主题文件不是一堆内存溢出就是打开文件太多错误提示。这个问题怀疑是hexo编译主题的时候把node_module一起......想想都可怕；移除了node_module之后就不会了，然后移进来又会了，oh shit！再去看着yalia一堆open的issue果断转投next。
+在引入next主题之前我是用yilia主题的，奈何发现各种小bug，虽然可以自定义修改，但是安装了npm包后，hexo编译主题文件不是一堆内存溢出就是打开文件太多错误提示。这个问题怀疑是hexo编译主题的时候把node_module一起......想想都可怕；移除了node_module之后就不会了，然后移进来又会了，oh shit！再去看着yilia一堆open的issue果断转投next。
 
 还是丢[官网文档](http://theme-next.iissnan.com/getting-started.html)，感觉官网文档很不错，不过坑还是有的，或者有一些雾里看花压根就没怎么和你讲。
 1. 侧边栏的各种关于、标签页都需要在配置新增之后显示，而后用hexo新增对应的页面，博客url管理是日期或者对应文件目录形式，可以看看public文件下面就知道了
