@@ -1,86 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T17:29:10.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="IjkbtXuLHJ7YSfRcyZv5" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T18:08:59.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="GyElH-O1UCYjATPLnOjY" version="21.0.6" type="github">
   <diagram name="第 1 页" id="eqNK_jSqjyyG-bo4LpL6">
     <mxGraphModel dx="1113" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=#FF0000;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-4" target="pA_UhPEc9qeJ-P0O8AGT-5">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=#FF0000;startArrow=classic;startFill=1;dashed=1;" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-4" target="pA_UhPEc9qeJ-P0O8AGT-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1120" y="775" width="430" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="780" width="580" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-10" target="pA_UhPEc9qeJ-P0O8AGT-13">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-10" target="pA_UhPEc9qeJ-P0O8AGT-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-7" value="同事关系&lt;br&gt;（有转账记录）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pA_UhPEc9qeJ-P0O8AGT-6">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-7" value="同事关系&lt;br&gt;（有转账记录）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pA_UhPEc9qeJ-P0O8AGT-6" vertex="1" connectable="0">
           <mxGeometry x="-0.175" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-10" target="pA_UhPEc9qeJ-P0O8AGT-21">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-10" target="pA_UhPEc9qeJ-P0O8AGT-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="310" y="990" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-9" value="有转账记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pA_UhPEc9qeJ-P0O8AGT-8">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-9" value="有转账记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pA_UhPEc9qeJ-P0O8AGT-8" vertex="1" connectable="0">
           <mxGeometry x="0.1765" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-10" value="林松健&lt;br&gt;（受害者）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-10" value="林松健&lt;br&gt;（受害者）" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="810" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-13" target="pA_UhPEc9qeJ-P0O8AGT-16">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-13" target="pA_UhPEc9qeJ-P0O8AGT-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-12" value="同胞姐妹" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pA_UhPEc9qeJ-P0O8AGT-11">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-12" value="同胞姐妹" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pA_UhPEc9qeJ-P0O8AGT-11" vertex="1" connectable="0">
           <mxGeometry x="-0.375" y="-1" relative="1" as="geometry">
             <mxPoint x="15" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-13" value="方嘉慧（业务员）&lt;br&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;（声称投了40w）&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-13" value="方嘉慧（业务员）&lt;br&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;（声称投了40w）&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="810" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-16" target="pA_UhPEc9qeJ-P0O8AGT-21">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-16" target="pA_UhPEc9qeJ-P0O8AGT-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-15" value="夫妻" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pA_UhPEc9qeJ-P0O8AGT-14">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-15" value="夫妻" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pA_UhPEc9qeJ-P0O8AGT-14" vertex="1" connectable="0">
           <mxGeometry x="-0.1333" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-16" value="方嘉静" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-16" value="方嘉静" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="810" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-22" target="pA_UhPEc9qeJ-P0O8AGT-21">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-22" target="pA_UhPEc9qeJ-P0O8AGT-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-18" value="&lt;font color=&quot;#ff0000&quot;&gt;副总？&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pA_UhPEc9qeJ-P0O8AGT-17">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-18" value="&lt;font color=&quot;#ff0000&quot;&gt;副总？&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pA_UhPEc9qeJ-P0O8AGT-17" vertex="1" connectable="0">
           <mxGeometry x="0.2933" y="-4" relative="1" as="geometry">
             <mxPoint x="7" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-21" target="pA_UhPEc9qeJ-P0O8AGT-25">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-21" target="pA_UhPEc9qeJ-P0O8AGT-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-20" value="声称是上下线关系（大学师兄弟？高中宿友？）&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pA_UhPEc9qeJ-P0O8AGT-19">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-20" value="声称是上下线关系（大学师兄弟？高中宿友？）&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pA_UhPEc9qeJ-P0O8AGT-19" vertex="1" connectable="0">
           <mxGeometry x="-0.0923" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-21" value="杨炳升(主谋）&lt;br&gt;声称投了1000多w&lt;br&gt;2023-03-09&lt;br&gt;声称资金链断裂" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-21" value="杨炳升(主谋）&lt;br&gt;声称投了1000多w&lt;br&gt;2023-03-09&lt;br&gt;声称资金链断裂" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="950" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-22" value="旺总&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;（声称也投了&lt;br&gt;80w）&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-22" value="旺总&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;（声称也投了&lt;br&gt;80w）&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="1010" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-25" target="pA_UhPEc9qeJ-P0O8AGT-21">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=none;startFill=0;dashed=1;" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-25" target="pA_UhPEc9qeJ-P0O8AGT-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="643" y="1250" />
@@ -88,63 +88,60 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-24" value="有转账记录，&lt;br&gt;杨声称刑事案件后，国家会赔偿给到他&lt;br&gt;咨询过律师" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="pA_UhPEc9qeJ-P0O8AGT-23">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-24" value="有转账记录，&lt;br&gt;杨声称刑事案件后，国家会赔偿给到他&lt;br&gt;咨询过律师" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" parent="pA_UhPEc9qeJ-P0O8AGT-23" vertex="1" connectable="0">
           <mxGeometry x="-0.4824" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-25" value="郭思懿&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;（&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;被惠东以非法吸收公众存款罪警方拘捕&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;后自首？&lt;/span&gt;）&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;什么时间自首？&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-25" value="郭思懿&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;（&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;被惠东以非法吸收公众存款罪警方拘捕&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;后自首？&lt;/span&gt;）&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;什么时间自首？&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="662.5" y="1210" width="235" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-27" value="&lt;font color=&quot;#ff0000&quot;&gt;广东中粤辉睿品&lt;br&gt;牌管理有限公司&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-27" value="&lt;font color=&quot;#ff0000&quot;&gt;广东中粤辉睿品&lt;br&gt;牌管理有限公司&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="850" y="230" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-28" value="500w资方？&lt;br&gt;（支持度过难关？）" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-28" value="500w资方？&lt;br&gt;（支持度过难关？）" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="825" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-29" value="700w资方？&lt;br&gt;（支持度过难关？）" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-29" value="700w资方？&lt;br&gt;（支持度过难关？）" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="935" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-30" value="其他10几位受害者&lt;br&gt;（支持度过难关？）" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-30" value="其他10几位受害者&lt;br&gt;（支持度过难关？）" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="1035" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-31" value="口头提到的&lt;br&gt;其他人员" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;dashed=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-31" value="口头提到的&lt;br&gt;其他人员" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;dashed=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="1381" y="815" width="129" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="742.5" y="390" width="415" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-33" value="抖音直播带货？" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-33" value="抖音直播带货？" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="930" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-34" value="&lt;font color=&quot;#ff0000&quot;&gt;公司实际营收&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-34" value="&lt;font color=&quot;#ff0000&quot;&gt;公司实际营收&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="840" y="340" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-35" value="以借款合同资金用于生意为由&lt;br&gt;行诈骗之实？" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-35" value="以借款合同资金用于生意为由&lt;br&gt;行诈骗之实？" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="930" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1105" y="1230" width="460" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-37" value="杨炳升&lt;br&gt;期间主要活动" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;dashed=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-37" value="杨炳升&lt;br&gt;期间主要活动" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;dashed=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="1371.5" y="1260" width="148" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-38" value="2023-03-02 辞去上海xxx职务" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-38" value="2023-03-02 辞去上海顶途信息科技法定代表人&lt;span style=&quot;background-color: initial;&quot;&gt;职务（20%股权）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="1160" y="1270" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-39" value="xxxx-xx-xx 买房" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-39" value="2022年下半年买房买车&lt;br&gt;2022年10月21日接受转账30万" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="1160" y="1360" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-40" value="xxxx-xx-xx 买车" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1450" width="170" height="60" as="geometry" />
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-41" value="2022年1月陆续接受转账97万；&lt;br&gt;3月中旬转回来用；4-6月陆续接受250w转账" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="1157.5" y="1450" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-41" value="xxxx-xx-xx 去广西？" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1540" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-42" value="&lt;h1&gt;&lt;font color=&quot;#ff0000&quot;&gt;待办事项&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;1. 录音的关键部分要做标记，以便随时给需要了解相关事实的人听（如受害人达10几个人，涉案金额巨大等）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;2. 证明对方是以投资硬件返息为利诱，实施咋骗的，保留证据&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;3. 是“非法吸收公众存款罪”还是“集资咋骗罪”？需要了解这两种罪的认定后，从过程中找出相应的证据来证明&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;4. 了解这两种罪的办案各阶段，立案？审查？起诉，判决？&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-42" value="&lt;h1&gt;&lt;font color=&quot;#ff0000&quot;&gt;待办事项&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;1. 录音的关键部分要做标记，以便随时给需要了解相关事实的人听（如受害人达10几个人，涉案金额巨大等）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;2. 证明对方是以投资硬件返息为利诱，实施咋骗的，保留证据&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;3. 是“非法吸收公众存款罪”还是“集资咋骗罪”？需要了解这两种罪的认定后，从过程中找出相应的证据来证明&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;4. 了解这两种罪的办案各阶段，立案？审查？起诉，判决？&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="1270" width="190" height="345" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-10" target="pA_UhPEc9qeJ-P0O8AGT-16">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-10" target="pA_UhPEc9qeJ-P0O8AGT-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="1000" as="sourcePoint" />
             <mxPoint x="780" y="740" as="targetPoint" />
@@ -154,23 +151,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-45" value="转账记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-45" value="转账记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="475" y="715" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-46" value="路特斯导航" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-46" value="路特斯导航" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="777.5" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-47" value="詹双喜糖饼铺" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-47" value="詹双喜糖饼铺" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="777.5" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-48" value="&lt;h3&gt;隐瞒该公司资不抵债的真实财务状况，虚构分公司取得项目开发权并有履约能力等事实；以非法占有为目的，在签订、履行合同过程中，虚构事实，隐瞒真相，多次骗取对方当事人财物，数额特别巨大，其行为已构成合同诈骗罪&lt;/h3&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-48" value="&lt;h3&gt;隐瞒该公司资不抵债的真实财务状况，虚构分公司取得项目开发权并有履约能力等事实；以非法占有为目的，在签订、履行合同过程中，虚构事实，隐瞒真相，多次骗取对方当事人财物，数额特别巨大，其行为已构成合同诈骗罪&lt;/h3&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="1280" y="395" width="190" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-32" target="pA_UhPEc9qeJ-P0O8AGT-48">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-32" target="pA_UhPEc9qeJ-P0O8AGT-48" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1090" y="650" as="sourcePoint" />
             <mxPoint x="1140" y="600" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dqbJuQIkkegsD5jFX__g-1" value="2022年一月到四月邀请吃饭、介绍项目，玩现金流游戏" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1157.5" y="1530" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
