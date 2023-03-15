@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T05:12:03.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="OIPGqcR9r5BWqwnouvjx" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T19:02:58.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="FwN66Dq_udwm4dZIj1_5" version="21.0.6" type="github">
   <diagram name="第 1 页" id="eqNK_jSqjyyG-bo4LpL6">
-    <mxGraphModel dx="1148" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="775" width="430" height="360" as="geometry" />
+          <mxGeometry x="1089.5" y="775" width="430" height="360" as="geometry" />
         </mxCell>
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="780" width="580" height="350" as="geometry" />
@@ -33,7 +33,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-10" value="林松健&lt;br&gt;（受害者）" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-10" value="林松健&lt;br&gt;（受害者，目前金额高达267万元）" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="810" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-13" target="pA_UhPEc9qeJ-P0O8AGT-16" edge="1">
@@ -41,8 +41,11 @@
         </mxCell>
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-12" value="同胞姐妹" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pA_UhPEc9qeJ-P0O8AGT-11" vertex="1" connectable="0">
           <mxGeometry x="-0.375" y="-1" relative="1" as="geometry">
-            <mxPoint x="15" y="-1" as="offset" />
+            <mxPoint x="16" y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RL3vpznQPUW45Q1cdekI-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-13" target="RL3vpznQPUW45Q1cdekI-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-13" value="方嘉慧&lt;br&gt;（业务员兼财务）&lt;br&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;（声称投了40w）&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="810" width="120" height="80" as="geometry" />
@@ -69,7 +72,7 @@
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-21" target="pA_UhPEc9qeJ-P0O8AGT-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-20" value="声称是上下线关系（大学师兄弟）&lt;br&gt;正常过桥资金已经运营4年" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pA_UhPEc9qeJ-P0O8AGT-19" vertex="1" connectable="0">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-20" value="资金链断裂后声称是上下线关系（大学师兄弟）&lt;br&gt;正常过桥资金已经运营4年" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pA_UhPEc9qeJ-P0O8AGT-19" vertex="1" connectable="0">
           <mxGeometry x="-0.0923" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -77,7 +80,7 @@
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-21" value="杨炳升(主谋）&lt;br&gt;声称投了1000多w&lt;br&gt;2023-03-09&lt;br&gt;声称资金链断裂" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="950" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-22" value="旺总&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;（声称也投了&lt;br&gt;80w）&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-22" value="旺总&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;（声称也投了&lt;br&gt;80w，部分为家人资金，部分是去年赚的）&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="1010" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=none;startFill=0;dashed=1;" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-25" target="pA_UhPEc9qeJ-P0O8AGT-21" edge="1">
@@ -88,28 +91,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-24" value="有转账记录，&lt;br&gt;杨声称刑事案件后，国家会赔偿给到他&lt;br&gt;咨询过律师" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" parent="pA_UhPEc9qeJ-P0O8AGT-23" vertex="1" connectable="0">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-24" value="1、有转账记录，&lt;br&gt;2、杨声称刑事案件后，国家清退资金需要两年&lt;br&gt;大家都是受害者要先各自自保&lt;br&gt;3、咨询过律师" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" parent="pA_UhPEc9qeJ-P0O8AGT-23" vertex="1" connectable="0">
           <mxGeometry x="-0.4824" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-176" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-25" value="郭思懿&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;（杨声称郭2023年2月份&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;以集资诈骗罪举报后自首，后改为非法吸收公众存款罪，涉案金额3个亿，旗下有过桥垫资公司&lt;/span&gt;）&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="662.5" y="1210" width="235" height="80" as="geometry" />
+          <mxGeometry x="662.5" y="1210" width="237.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-27" value="&lt;font color=&quot;#ff0000&quot;&gt;广东中粤辉睿品&lt;br&gt;牌管理有限公司&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="850" y="230" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-28" value="500w资方？&lt;br&gt;（支持度过难关？）" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-28" value="500w资方受害者&lt;br&gt;（支持度过难关？）" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="825" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-29" value="700w资方？&lt;br&gt;（支持度过难关？）" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-29" value="700w资方受害者&lt;br&gt;（支持度过难关？）" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="935" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-30" value="其他10几位受害者&lt;br&gt;（支持度过难关？）" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-30" value="其他十余位受害者&lt;br&gt;（支持度过难关？）" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="1035" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-31" value="杨口头提到的其他人员；&lt;br&gt;均为本人多年亲朋好友" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;dashed=1;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="755" width="129" height="195" as="geometry" />
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-31" value="杨口头提到的其他人员；均为本人多年亲朋好友并且投资行为比较隐蔽，可能他们亲人都不知道，背后可能牵扯几十个家庭" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;dashed=1;fontColor=#FF0000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="830" width="200" height="230" as="geometry" />
         </mxCell>
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="742.5" y="390" width="415" height="200" as="geometry" />
@@ -124,22 +127,22 @@
           <mxGeometry x="930" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1105" y="1230" width="460" height="400" as="geometry" />
+          <mxGeometry x="1074.5" y="1169" width="460" height="400" as="geometry" />
         </mxCell>
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-37" value="杨炳升&lt;br&gt;期间主要活动" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;dashed=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="1371.5" y="1260" width="148" height="55" as="geometry" />
         </mxCell>
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-38" value="2023-03-02 辞去上海顶途信息科技法定代表人&lt;span style=&quot;background-color: initial;&quot;&gt;职务（20%股权）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="1270" width="170" height="60" as="geometry" />
+          <mxGeometry x="1150" y="1200" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-39" value="2022年下半年买房买车&lt;br&gt;2022年10月21日接受转账30万" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="1360" width="170" height="60" as="geometry" />
+          <mxGeometry x="1150" y="1280" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-41" value="2022年1月陆续接受转账97万；&lt;br&gt;3月中旬转回来用于林松健贷更多资金；4-6月陆续接受林松健250w转账" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="1157.5" y="1450" width="170" height="60" as="geometry" />
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-41" value="2022年1月陆续接受转账97万；&lt;br&gt;3月中旬转回来用于林松健贷更多资金；4-6月陆续接受林松健转账" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="1360" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-42" value="&lt;h1&gt;&lt;font color=&quot;#ff0000&quot;&gt;待办事项&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;1. 录音的关键部分要做标记，以便随时给需要了解相关事实的人听（如受害人达10几个人，涉案金额巨大等）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;2. 证明对方是以投资硬件返息为利诱，实施咋骗的，保留证据&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;3. 是“非法吸收公众存款罪”还是“集资咋骗罪”？需要了解这两种罪的认定后，从过程中找出相应的证据来证明&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;4. 了解这两种罪的办案各阶段，立案？审查？起诉，判决？&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1270" width="190" height="345" as="geometry" />
+          <mxGeometry x="280" y="1300" width="190" height="345" as="geometry" />
         </mxCell>
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-10" target="pA_UhPEc9qeJ-P0O8AGT-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -151,8 +154,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-45" value="转账记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="475" y="715" width="70" height="30" as="geometry" />
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-45" value="有转账记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="470" y="715" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RL3vpznQPUW45Q1cdekI-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-46" target="RL3vpznQPUW45Q1cdekI-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-46" value="路特斯导航" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="777.5" y="410" width="120" height="60" as="geometry" />
@@ -160,7 +166,10 @@
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-47" value="詹双喜糖饼铺" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="777.5" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-48" value="&lt;h3&gt;隐瞒该公司资不抵债的真实财务状况，虚构分公司取得项目开发权并有履约能力等事实；以非法占有为目的，在签订、履行合同过程中，虚构事实，隐瞒真相，多次骗取对方当事人财物，数额特别巨大，其行为已构成合同诈骗罪&lt;/h3&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#FF3333;" parent="1" vertex="1">
+        <mxCell id="RL3vpznQPUW45Q1cdekI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-48" target="RL3vpznQPUW45Q1cdekI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pA_UhPEc9qeJ-P0O8AGT-48" value="&lt;h3&gt;隐瞒该公司资不抵债的真实财务状况，虚构公司取得项目代理开发权并有履约能力等事实；以非法占有为目的，在签订、履行合同过程中，虚构事实，隐瞒真相，多次骗取对方当事人财物，数额特别巨大，其行为已构成合同诈骗罪&lt;/h3&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="1280" y="395" width="190" height="190" as="geometry" />
         </mxCell>
         <mxCell id="pA_UhPEc9qeJ-P0O8AGT-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pA_UhPEc9qeJ-P0O8AGT-32" target="pA_UhPEc9qeJ-P0O8AGT-48" edge="1">
@@ -170,24 +179,39 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dqbJuQIkkegsD5jFX__g-1" value="2022年一月到四月邀请吃饭、介绍项目，玩现金流游戏" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="1157.5" y="1530" width="170" height="60" as="geometry" />
+          <mxGeometry x="1150" y="1440" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PDiV0kDcDoiyN82nJuzl-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PDiV0kDcDoiyN82nJuzl-3" target="PDiV0kDcDoiyN82nJuzl-5">
+        <mxCell id="PDiV0kDcDoiyN82nJuzl-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PDiV0kDcDoiyN82nJuzl-3" target="PDiV0kDcDoiyN82nJuzl-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PDiV0kDcDoiyN82nJuzl-3" value="2022年1月利诱签订获取97万" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PDiV0kDcDoiyN82nJuzl-3" value="2022年1月利诱签订获取97万" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="657.5" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PDiV0kDcDoiyN82nJuzl-4" value="案件流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PDiV0kDcDoiyN82nJuzl-4" value="案件流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="682.5" y="1480" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PDiV0kDcDoiyN82nJuzl-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PDiV0kDcDoiyN82nJuzl-5" target="PDiV0kDcDoiyN82nJuzl-7">
+        <mxCell id="PDiV0kDcDoiyN82nJuzl-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PDiV0kDcDoiyN82nJuzl-5" target="PDiV0kDcDoiyN82nJuzl-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PDiV0kDcDoiyN82nJuzl-5" value="2022年3月返回资金用于二次借贷资金" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="657.5" y="1670" width="120" height="60" as="geometry" />
+        <mxCell id="PDiV0kDcDoiyN82nJuzl-5" value="2022年3月16返回资金用于林松健二次借贷资金" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="657.5" y="1620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PDiV0kDcDoiyN82nJuzl-7" value="2022年" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="RL3vpznQPUW45Q1cdekI-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PDiV0kDcDoiyN82nJuzl-7" target="RL3vpznQPUW45Q1cdekI-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PDiV0kDcDoiyN82nJuzl-7" value="2022年3月-6月陆续获取资金250万元并于6月15号签订合同" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="657.5" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RL3vpznQPUW45Q1cdekI-1" value="上海顶途信息科技有限公司（企业代表人，3月2号已变更）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RL3vpznQPUW45Q1cdekI-3" value="非法占有：以欺骗手段获取资金的支配权利并用作其他用途" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RL3vpznQPUW45Q1cdekI-5" value="声称目前单位仅有林松健一名受害者" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="915" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RL3vpznQPUW45Q1cdekI-9" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="657.5" y="1810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
